@@ -1,0 +1,17 @@
+{ "songs": [
+    {   "id": 1,
+        "name": "En abe",
+        "type": "Sedan",
+        "desc": "A fine American automobile"
+    },
+    {   "id": 2,
+        "name": "Male byen rød",
+        "type": "Sedan",
+        "desc": "A fine German automobile"
+    },
+    {   "id": 3,
+        "name": "This is Halloween",
+        "type": "Sedan",
+        "desc": "A fine Japanese automobile"
+    }
+]}

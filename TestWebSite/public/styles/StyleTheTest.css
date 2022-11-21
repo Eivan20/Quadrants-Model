@@ -1,0 +1,39 @@
+h1 {
+    color: darkblue;
+}
+body {
+    padding: 0px 20px 0px 20px;
+}
+
+#songsText {
+    visibility: hidden;
+}
+
+form {
+    display: inline-grid;
+    grid-row-gap: 16px;
+}
+
+.grid {
+    display: grid;
+}
+
+.tracks {
+    grid-row-gap: 5px;
+}
+
+.inputs {
+    grid-row-gap: 5px;
+}
+
+.invalid-feedback {
+    color: #dc3545;
+}
+
+.is-invalid {
+    border-color: #dc3545;
+}
+
+.invalid-feedback{
+    display: none;
+}
